@@ -248,7 +248,9 @@ button {
 .card-title {
     font-size: 1.2rem;
 }
-
+.card-text {
+    margin-top: -1em;
+}
 /* PRojects */
 .box1 {
     display: flex;

@@ -229,7 +229,7 @@ button {
 .card {
     border-radius: 10px;
     width: 15rem;
-    margin-top: 3rem;
+    margin-top: -1rem;
     margin-left: 2rem;
     margin-right: 5rem;
     border: 1px solid #ccc;
@@ -246,11 +246,13 @@ button {
 }
 
 .card-title {
+    color:lightgoldenrodyellow;
     font-size: 1.2rem;
 }
 .card-text {
     margin-top: -1em;
 }
+
 /* PRojects */
 .box1 {
     display: flex;
